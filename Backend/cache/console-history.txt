@@ -1,0 +1,2 @@
+const contract = await ethers.getContractAt("HelloWorld", "0xE25ab1A786a32A78de88F89bc6400DF033899C0F");
+const contract = await ethers.getContractAt("YourContractName", "0xYourContractAddress");
